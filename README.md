@@ -35,6 +35,10 @@ I'm a researcher and policy analyst pursuing an **MA in International Developmen
 
 `Stata` · `R` · `Python` · `Tableau` · `LaTeX` · `SurveyCTO` · `MAXQDA` · `NVivo`
 
+**Program Management**
+
+`Stakeholder Coordination` · `Survey Design & Translation` · `Enumerator Training` · `Community Outreach` · `Partnership Development`
+
 **Languages**
 
 🇳🇵 Nepali (Native) · 🇬🇧 English (Fluent) · 🇮🇳 Hindi (Fluent) · 🇵🇰 Urdu (Oral)
