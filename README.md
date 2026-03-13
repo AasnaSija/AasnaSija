@@ -2,6 +2,8 @@
 
 I'm a researcher and policy analyst pursuing an **MA in International Development Policy** at Georgetown University's McCourt School of Public Policy (expected May 2026). My work sits at the intersection of gender, labor markets, and international development — with a focus on rigorous quantitative methods and actionable policy insights.
 
+My experience designing education programs for migrant workers in the UAE sparked my interest in remittances as a tool for development. I'm interested in exploring how financial and digital innovations along with AI can improve the efficiency and equity of cross-border money transfers.
+
 ---
 
 ## What I Work On
